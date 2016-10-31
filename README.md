@@ -1,6 +1,5 @@
 # Library Characterization Environment (LiChEn)
 
-## **Welcome to LiChEn Repository**
 LiChEn provides electrical characterization support for asynchronous circuits.
 
 To compile LiChEn, just run the provided Makefile with `make all`
